@@ -50,3 +50,8 @@ app.listen(config.api.port, () => {
 });
 
 // Test
+
+function unused() {
+  // this function does nothing
+  // and is called nowhere
+}
